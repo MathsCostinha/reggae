@@ -1,0 +1,48 @@
+.fundo{
+    background-image: url("reggae_wallpaper2.png");
+
+    width: 600px;
+    height: 600px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.card{
+    background-color: orange;
+    color:white;
+    text-align: justify;
+}
+
+.card h5{
+    text-align: center;
+}
+.nav-link{
+    color: grey;
+}
+
+#noticias:hover{
+    color: green;
+}
+#imagens:hover{
+    color: yellow;
+}
+#sobre:hover{
+    color: red;
+}
+
+.verde{
+    color: green;
+}
+
+.amarelo{
+    color: yellow;
+}
+
+.vermelho{
+    color: red;
+}
