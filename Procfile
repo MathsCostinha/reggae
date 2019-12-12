@@ -1,0 +1,1 @@
+web: gunicorn reggae_project.wsgi --log-file -
